@@ -1,11 +1,9 @@
-# Popular Object Detection Papers
+# Object Detection and Semantic Segmentation Study Resources
 
-test repository
+## Infulential Scientific Articles for Object Detection
 
-* [Discrete Mathematics]
 
-* [Linear Algebra - MIT Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-
+## Infulential Scientific Articles for Semantic Segmentation
 
 * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
 
