@@ -9,3 +9,11 @@
 
 * [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1411.4038.pdf)
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
+
+## Image Classification
+
+* [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+
+## Anomaly Detection
+
+* [Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection](https://songdj.github.io/publication/mm-21/mm-21.pdf)
