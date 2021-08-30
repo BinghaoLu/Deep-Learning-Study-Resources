@@ -1,7 +1,7 @@
 # Object Detection and Semantic Segmentation Study Resources
 
 ## 1. Infulential Scientific Articles for Object Detection
-
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
 
 ## 2. Infulential Scientific Articles for Semantic Segmentation
 
